@@ -48,13 +48,13 @@ We used hyperparameter search strategies such as *Random Search*, *Bayesian Opti
 
 The code for each task is organized in separate Jupyter notebooks:
 
-**task_I_II_1.ipynb**: Data loading, exploration, and visualization.
+[**task_I_II_1.ipynb**](repo/code/task_I_II_1.ipynb) : Data loading, exploration, and visualization.
 
-**task_II_III_1.ipynb**: Linear regression model training and evaluation.
+[**task_II_III_1.ipynb**](repo/code/task_II_III_1.ipynb): Linear regression model training and evaluation.
 
-**task_III_2_IV.ipynb**: Feature selection using optimal and heuristic methods. Dimensionality reduction using PCA.
+[**task_III_2_IV.ipynb**](repo/code/task_III_2_IV.ipynb): Feature selection using optimal and heuristic methods. Dimensionality reduction using PCA.
 
-**task_V.ipynb**: Neural network implementation and hyperparameter tuning.
+[**task_V.ipynb**](repo/code/task_V.ipynb): Neural network implementation and hyperparameter tuning.
 
 ## Results
 
