@@ -56,6 +56,10 @@ The code for each task is organized in separate Jupyter notebooks:
 
 **task_V.ipynb**: Neural network implementation and hyperparameter tuning.
 
+## Results
+
+You can find the results of this projet in the file *project_final_report.pdf*.
+
 ## Requirements
 
 Python 3.x
