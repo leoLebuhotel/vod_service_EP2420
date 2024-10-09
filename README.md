@@ -18,7 +18,7 @@ We computed basic statistics (mean, standard deviation, percentiles) for each fe
 
 ### Task 2: Estimating Service Metrics Using Linear Regression
 
-We trained a **linear regression model ** to estimate the video frame rate from the device statistics. The dataset was split into training and test sets, and we computed the model's coefficients and the **Normalized Mean Absolute Error** (NMAE) on the test set.
+We trained a **linear regression model** to estimate the video frame rate from the device statistics. The dataset was split into training and test sets, and we computed the model's coefficients and the **Normalized Mean Absolute Error** (NMAE) on the test set.
 
 We compared the linear regression model's accuracy with a naïve baseline that predicted the average frame rate. 
 
